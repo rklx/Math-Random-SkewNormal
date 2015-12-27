@@ -1,0 +1,15 @@
+{
+    "name" : "Math::Random::SkewNormal",
+    "version" : "*",
+    "description" : "Skew-Normal random number generator",
+    "build-depends" : [ ],
+    "test-depends" : [
+        "Test"
+    ],
+    "depends" : [ ],
+    "provides" : {
+        "Math::Random::SkewNormal" : "lib/Math/Random/SkewNormal.pm"
+    },
+    "source-type" : "git",
+}
+
